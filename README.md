@@ -1,15 +1,9 @@
 # Estudos-Angular
 
-=> para instalar as dependências do angular no projeto npm i -g angular/cli
+## Cod3r
 
-=> para criar o projeto Angular ng new nomeProjeto --minimal
+- Link Certificado: https://www.cod3r.com.br/certificates/xybreymqu3
 
-=> adicionar o material ng add @angular/material
+## Hora de Cordar
 
-=> gerar um componente (é criado dentro da pasta src/app) ng g(generation) c(component) components/template/header
-
-// criação de componentes => ng g c caminho/caminho
-
-// criação de diretivas => ng g d caminho/caminho
-
-// criação de serviços => ng g s caminho/caminho
+- Youtube: https://www.youtube.com/watch?v=vJt_K1bFUeA&list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw
