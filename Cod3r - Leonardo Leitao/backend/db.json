@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta Da mais Top",
+      "price": 1.89
+    },
+    {
+      "id": 2,
+      "name": "Macbook Pro",
+      "price": "11000"
+    },
+    {
+      "id": 3,
+      "name": "Galaxy Samsung S20+",
+      "price": 5000
+    },
+    {
+      "name": "Iphone 3s",
+      "price": "2000",
+      "id": 4
+    }
+  ]
+}
