@@ -1,4 +1,4 @@
-# Cod3r
+# Cod3r - Leonardo Leitao
 
 => para instalar as dependências do angular no projeto npm i -g angular/cli
 
